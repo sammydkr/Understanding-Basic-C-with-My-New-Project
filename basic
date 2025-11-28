@@ -1,0 +1,6 @@
+string channel = "Semih";
+
+
+Console.WriteLine("channel + dikercarnivore");
+Console.WriteLine("channel + diker");
+Console.WriteLine("channel + red meat");  
