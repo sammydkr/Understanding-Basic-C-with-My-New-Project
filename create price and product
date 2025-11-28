@@ -1,0 +1,3 @@
+string carName = "Toyota";
+int price = 30000;
+Console.WriteLine($"The car {carName} costs {price} dollars.");
