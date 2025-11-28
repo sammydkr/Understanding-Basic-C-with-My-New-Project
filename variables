@@ -1,0 +1,10 @@
+string channel = "Dikercarnivore";
+
+int age = 3;
+int newage = age + 4;
+const double pi = 3.14;
+bool active = true;
+
+age = newage; 
+
+Console.writeline(age);
