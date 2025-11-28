@@ -1,0 +1,4 @@
+string carName = "Toyota";
+int price = 30000;
+double engineCapacity = 2.5;
+bool gasoline = true;
